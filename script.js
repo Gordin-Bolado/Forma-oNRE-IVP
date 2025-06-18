@@ -1,3 +1,3 @@
 function mostrarMensagem() {
-  alert("Obrigado por visitar!");
+  alert("Você é sempre bem-vindo por aqui! 😊");
 }
